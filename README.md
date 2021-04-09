@@ -1,4 +1,4 @@
-# Final Project of Software Engineering - a.a. 2019-2020
+# Final Project of Software Engineering
 ![picture](src/main/Resources/Images/ReadMePicture.jpg)
  
 ## Getting Started
