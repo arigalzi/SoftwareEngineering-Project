@@ -2,7 +2,7 @@
 ![picture](src/main/Resources/Images/ReadMePicture.jpg)
  
 ## Getting Started
-This project was developed as a computer version of a game for the final examination of the Software Engineering course at Politecnico di Milano. 
+This project was developed as a computer version of a game for the final examination of the Software Engineering course at Politecnico di Milano in the year 2020. 
 The purpose of the project is the implementation of the board game Santorini with the use of the design pattern Model View Controller for the realization of a design which follows the paradigm of object-oriented programming. The final result covers entirely the rules of the game and the interaction with the users is permitted through both a Graphical and a Command Line Interface. For the Network, a traditional approach based on the use of the Sockets was used.
 
 More information about the game can be found [here](http://www.craniocreations.it/prodotto/santorini/)
